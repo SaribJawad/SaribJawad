@@ -8,7 +8,7 @@ Front-end developer with a passion for crafting seamless user experiences. Profi
 
 * 🌍  I'm based in Abbottabad, Pakistan
 * ✉️  You can contact me at [msssarib12@gmail.com](mailto:msssarib12@gmail.com)
-* 🧠  I'm learning Next.js, Framer Motion.
+* 🧠  I'm learning Next.js, Framer Motion, TypeScript.
 * 🤝  I'm open to collaborating on web application projects!
 * ⚡  Magnus Carlsen but worse.
 
