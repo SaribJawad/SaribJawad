@@ -28,6 +28,6 @@ Front-end developer with a passion for crafting seamless user experiences. Profi
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SaribJawad"><img src="https://github-readme-stats.vercel.app/api?username=SaribJawad&show_icons=true&hide=prs,issues,&count_private=true&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&show_icons=true" alt="SaribJawad's GitHub stats" /></a>
+
 
 <a href="https://github.com/SaribJawad" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribJawad&langs_count=10&title_color=0891b2&text_color=14b8a6&icon_color=0891b2&bg_color=27272a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
