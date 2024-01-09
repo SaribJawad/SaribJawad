@@ -4,7 +4,7 @@ Hi, My name is Sarib Jawad
 Front-end web developer
 -----------------------
 
-A Front-end developer with a passion for crafting seamless user experiences. Proficient in HTML, CSS, and JavaScript, with expertise in React.js. I also love adding life to the web with animations, including GSAP.
+A Front-end developer with a passion for crafting seamless user experiences. Proficient in HTML, CSS, and JavaScript, with expertise in React.js. I also love adding life to the web with animations.
 
 * 🌍  I'm based in Abbottabad, Pakistan
 * ✉️  You can contact me at [msssarib12@gmail.com](mailto:msssarib12@gmail.com)
