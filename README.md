@@ -5,7 +5,7 @@
    <samp><br>
    Hey there, I'm Sarib!
    <br>
-   I’m currently learning SQL, Socket.IO & NextJS<br>
+   I’m currently learning NextJS<br>
    In the mean time, I'm working on developing fullstack projects and<br> looking to contribute to other open source
    projects.
    <br>
